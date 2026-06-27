@@ -105,11 +105,11 @@ Using this dashboard, users can:
 
 ## 📷 Dashboard Preview
 
-> Add your dashboard screenshots here.
 
-Example:
+<img width="1162" height="650" alt="Screenshot 2026-06-27 175531" src="https://github.com/user-attachments/assets/9fb31679-2e10-4984-b3be-30d030d7e72a" />
 
-![Dashboard](images/dashboard.png)
+
+
 
 ---
 
