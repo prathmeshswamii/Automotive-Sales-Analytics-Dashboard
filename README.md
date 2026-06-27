@@ -106,10 +106,7 @@ Using this dashboard, users can:
 ## 📷 Dashboard Preview
 
 
-<img width="1162" height="650" alt="Screenshot 2026-06-27 175531" src="https://github.com/user-attachments/assets/9fb31679-2e10-4984-b3be-30d030d7e72a" />
-
-
-
+<img width="1172" height="657" alt="Screenshot 2026-06-27 175455" src="https://github.com/user-attachments/assets/d8df62af-aa9a-435f-aec5-5b14142934ab" />
 
 ---
 
